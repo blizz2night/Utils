@@ -1,4 +1,3 @@
-```java
 /**
  * plane[0] buffer作为Y通道, planes[2] buffer作为UV通道
  * 为什么要用plane[2]的buffer?
